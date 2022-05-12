@@ -1,0 +1,16 @@
+1. Go to the website Joxi.ru 
+2. Click the "Joxi for your Chrome" button 
+Expected result: The download of Joxi for the Google Chrome browser will begin. 
+Actual result: Error 404
+Environment: Windows 10 (64 bit)
+Browser: Google Chrome Версия 101.0.4951.54 (Official assembly), (64 бит)
+(05/05/2022 13:40:59 Moscow time)
+
+Перейти на сайт Joxi.ru
+Нажать кнопку «Joxi для вашего Chrome»
+Ожидаемый результат: начнётся загрузка Joxi для браузера Google Chrome.
+Фактический результат: Ошибка 404
+
+Окружение: Windows 10 (64 бит)
+Браузер: Google Chrome Версия 101.0.4951.54 (Официальная сборка), (64 бит)
+‎(5.05.‎2022‎ ‏‎13:40:59 по Московскому времени)
