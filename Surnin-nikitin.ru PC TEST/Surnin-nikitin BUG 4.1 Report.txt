@@ -1,0 +1,34 @@
+(ENGLISH VERSION)
+
+DESCRIPTION: In the Basket, the button to remove the product from the basket, inconspicuous and small.
+
+Environment: Windows 10 (64 bit)
+Browser: Google Chrome Version 103.0.5060.134 (Official Build), (64 bit)
+TIME: 07/26/2022 (18:20 at Moscow time)
+
+PLAYBACK STEPS:
+1. Open https://surnin-nikitin.ru/
+2. Add any product to the "CART"
+3. Go to the shopping cart
+
+EXPECTED RESULT: The button to remove an item from the cart is easy to find.
+THE ACTUAL RESULT: The button to remove the product from the basket is small and inconspicuous.
+Screenshot is attached.
+
+
+(RUSSIAN VERSION) 
+
+ОПИСАНИЕ: В Корзине, кнопка удаления товара из корзины, незаметная и маленькая.
+
+Окружение: Windows 10 (64 бит)
+Браузер: Google Chrome Версия 103.0.5060.134 (Официальная сборка), (64 бит)
+ВРЕМЯ: 26.07.2022 (18:20 по Московскому времени)
+
+ШАГИ ВОСПРОИЗВЕДЕНИЯ:
+1. Открыть https://surnin-nikitin.ru/
+2. Добавить любой товар в "КОРЗИНУ"
+3. Перейти в корзину
+
+ОЖИДАЕМЫЙ РЕЗУЛЬТАТ: Кнопку удаления товара из корзины легко найти.
+ФАКТИЧЕСКИЙ РЕЗУЛЬТАТ:  Кнопку удаления товара из корзины маленькая и непреметная.
+Скриншот прилагается.

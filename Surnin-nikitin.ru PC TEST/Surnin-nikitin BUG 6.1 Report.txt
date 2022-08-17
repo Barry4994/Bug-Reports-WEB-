@@ -1,0 +1,38 @@
+(ENGLISH VERSION)
+
+DESCRIPTION: When you select from the "EXAMPLES OF WORKS", in the pop-up window, when you click "enlarge image"
+, a picture 2 times larger than the one on the cover appears.
+
+Environment: Windows 10 (64 bit)
+Browser: Google Chrome Version 103.0.5060.134 (Official Build), (64 bit)
+TIME: 07/26/2022 (19:00 at Moscow time)
+
+PLAYBACK STEPS:
+1. Open https://surnin-nikitin.ru/
+2. Go to the section "EXAMPLES OF WORKS"
+3. Click the "MORE DETAILS" button on any of the pairs
+4. In the window that appears, click the "enlarge image" button
+
+EXPECTED RESULT: A large-format image that allows you to see all the elements in detail.
+THE ACTUAL RESULT: The same photo, only 2 times larger.
+Screenshots is attached.
+
+
+(RUSSIAN VERSION) 
+
+ОПИСАНИЕ: При выборе из "ПРИМЕРЫ РАБОТ", во всплывающем окне, при нажатии "увеличить изображение"
+появляется картинка в 2 раза больше, той что на обложке.
+
+Окружение: Windows 10 (64 бит)
+Браузер: Google Chrome Версия 103.0.5060.134 (Официальная сборка), (64 бит)
+ВРЕМЯ: 26.07.2022 (19:00 по Московскому времени)
+
+ШАГИ ВОСПРОИЗВЕДЕНИЯ:
+1. Открыть https://surnin-nikitin.ru/
+2. Перейти в раздел "ПРИМЕРЫ РАБОТ"
+3. Нажать кнопку "ПОДРОБНЕЕ" на любой из пар
+4. В появившемся окне нажать кнопку "увеличить изображение"
+
+ОЖИДАЕМЫЙ РЕЗУЛЬТАТ: Широформатное изображение, позволяющее детально разглядеть все элементы.
+ФАКТИЧЕСКИЙ РЕЗУЛЬТАТ: Та же самая фотография, только в 2 раза больше.
+Скриншоты прилагается.

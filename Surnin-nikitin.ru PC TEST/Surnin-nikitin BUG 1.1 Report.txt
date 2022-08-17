@@ -1,0 +1,38 @@
+(ENGLISH VERSION)
+
+DESCRIPTION: On the central page, in the section "CHOOSE YOUR LEATHER SNEAKERS".
+in the fields to fill in (the size of the foot) are entered: letters, symbols, rational numbers,
+and an incorrect message pops up "Only numbers are needed!"
+
+Environment: Windows 10 (64 bit)
+Browser: Google Chrome Version 103.0.5060.134 (Official Build), (64 bit)
+TIME: 07/26/2022 (23:20 at Moscow time)
+
+PLAYBACK STEPS:
+1. Open https://surnin-nikitin.ru/
+2. Go to the section "ВЫБЕРИ СВОИ КОЖАНЫЕ КЕДЫ"
+3. Fill in the fields (letters / symbols / rational numbers)
+
+EXPECTED RESULT: It is impossible to enter letters, symbols and rational numbers.
+ACTUAL RESULT: Letters, symbols and rational numbers are entered.
+Screenshots is attached.
+
+
+(RUSSIAN VERSION) 
+
+ОПИСАНИЕ: На центральной странице, в разделе «ВЫБЕРИ СВОИ КОЖАНЫЕ КЕДЫ».
+в поля для заполнения (размеров стопы) вводятся: буквами, символами, рациональные числа,
+и всплывает некорректное сообщение "Только цифры надо!"
+
+Окружение: Windows 10 (64 бит)
+Браузер: Google Chrome Версия 103.0.5060.134 (Официальная сборка), (64 бит)
+ВРЕМЯ: 26.07.2022 (18:00 по Московскому времени)
+
+ШАГИ ВОСПРОИЗВЕДЕНИЯ:
+1. Открыть https://surnin-nikitin.ru/
+2. Перейти в раздел "ВЫБЕРИ СВОИ КОЖАНЫЕ КЕДЫ"
+3. Заполнить поля (буквами / символами / рациональные числа)
+
+ОЖИДАЕМЫЙ РЕЗУЛЬТАТ: Нельзя ввести буквы, символами и рациональные числа.
+ФАКТИЧЕСКИЙ РЕЗУЛЬТАТ: Буквы, символами и рациональные числа вводятся.
+Скриншоты прилагаются.

@@ -1,0 +1,32 @@
+(ENGLISH VERSION)
+
+DESCRIPTION: Spelling error
+
+Environment: Windows 10 (64 bit)
+Browser: Google Chrome Version 103.0.5060.134 (Official Build), (64 bit)
+TIME: 07/26/2022 (18:00 at Moscow time)
+
+PLAYBACK STEPS:
+1. Open https://surnin-nikitin.ru/
+2. Go to the section "ВЫБЕРИ СВОИ КОЖАНЫЕ КЕДЫ"
+
+EXPECTED RESULT: (Кожаные кеды)
+ACTUAL RESULT: Кожаны() кеды
+Screenshot is attached.
+
+
+(RUSSIAN VERSION) 
+
+ОПИСАНИЕ: Орфографическая ошибка
+
+Окружение: Windows 10 (64 бит)
+Браузер: Google Chrome Версия 103.0.5060.134 (Официальная сборка), (64 бит)
+ВРЕМЯ: 26.07.2022 (18:00 по Московскому времени)
+
+ШАГИ ВОСПРОИЗВЕДЕНИЯ:
+1. Открыть https://surnin-nikitin.ru/
+2. перейти в параграф "ВЫБЕРИ СВОИ КОЖАНЫЕ КЕДЫ"
+
+ОЖИДАЕМЫЙ РЕЗУЛЬТАТ: Кожаные кеды
+ФАКТИЧЕСКИЙ РЕЗУЛЬТАТ: Кожаны кеды
+Скришот прилагается.

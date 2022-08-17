@@ -1,0 +1,34 @@
+(ENGLISH VERSION)
+
+DESCRIPTION: In the "REVIEWS ABOUT US" section without pointing, the slider looks like a third-party element,
+And the numbers on his list are indistinguishable.
+
+Environment: Windows 10 (64 bit)
+Browser: Google Chrome Version 103.0.5060.134 (Official Build), (64 bit)
+TIME: 07/26/2022 (19:15 at Moscow time)
+
+PLAYBACK STEPS:
+1. Open https://surnin-nikitin.ru/
+2. Go to the "REVIEWS ABOUT US" section
+
+EXPECTED RESULT: The slider is an intuitive element of the page, and the numbers inside the list are easy to read.
+THE ACTUAL RESULT: The slider looks like a third-party element, and the numbers inside the list are unreadable.
+Screenshot is attached.
+
+
+(RUSSIAN VERSION) 
+
+ОПИСАНИЕ: В разделе "ОТЗЫВЫ О НАС" без наведения, слайдер выглядит как сторонний элемент, 
+А номера в его списке, неразлечимы.
+
+Окружение: Windows 10 (64 бит)
+Браузер: Google Chrome Версия 103.0.5060.134 (Официальная сборка), (64 бит)
+ВРЕМЯ: 26.07.2022 (19:15 по Московскому времени)
+
+ШАГИ ВОСПРОИЗВЕДЕНИЯ:
+1. Открыть https://surnin-nikitin.ru/
+2. Перейти в раздел "ОТЗЫВЫ О НАС"
+
+ОЖИДАЕМЫЙ РЕЗУЛЬТАТ: Слайдер является интуитивно понятным элементом страницы, а номера внутри списка легко прочитать.
+ФАКТИЧЕСКИЙ РЕЗУЛЬТАТ: Слайдер выглядит как сторонний элемент, а номера внутри списка нечитаемы.
+Скриншот прилагается.

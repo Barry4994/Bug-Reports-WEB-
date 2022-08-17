@@ -1,0 +1,39 @@
+(ENGLISH VERSION)
+
+DESCRIPTION: In the description of a pair of shoes added to the basket, 
+if there are more than 10 characters in the description of the color,
+then it violates the boundaries of the color hint.
+
+Environment: Windows 10 (64 bit)
+Browser: Google Chrome Version 103.0.5060.134 (Official Build), (64 bit)
+TIME: 07/26/2022 (18:40 at Moscow time)
+
+PLAYBACK STEPS:
+1. Open https://surnin-nikitin.ru/
+2. Go to the section "Highlight your leather sneakers"
+3. In the color fields, select those with more than 10 characters in the name.
+4. Add sneakers to the cart
+
+EXPECTED RESULT: The color name is in its place and does not violate the boundaries of third-party modules.
+THE ACTUAL RESULT: The name of the color falls on the borders of the color hint.
+Screenshot is attached.
+
+
+(RUSSIAN VERSION) 
+
+ОПИСАНИЕ: В описании, добавленной пары обуви в корзину, если в описании цвета более 10 символов, 
+то оно нарушает границы цветной подсказки.
+
+Окружение: Windows 10 (64 бит)
+Браузер: Google Chrome Версия 103.0.5060.134 (Официальная сборка), (64 бит)
+ВРЕМЯ: 26.07.2022 (18:40 по Московскому времени)
+
+ШАГИ ВОСПРОИЗВЕДЕНИЯ:
+1. Открыть https://surnin-nikitin.ru/
+2. Переходим в  раздел "Выдели свои кожаные кеды"
+3. В полях цвета Выбираем те, в названии которых более 10 символов.
+4. Добавляем кеды в корзину
+
+ОЖИДАЕМЫЙ РЕЗУЛЬТАТ: Название цвета находиться на своём месте и не нарушает границ сторонних модулей.
+ФАКТИЧЕСКИЙ РЕЗУЛЬТАТ: Название цвета выходит на границы цветной подсказки.
+Скриншот прилагается.

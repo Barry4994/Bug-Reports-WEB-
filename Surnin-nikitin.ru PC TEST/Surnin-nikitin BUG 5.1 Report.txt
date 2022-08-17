@@ -1,0 +1,36 @@
+(ENGLISH VERSION)
+
+DESCRIPTION: In the Basket there is an opportunity to increase the number of pairs of shoes by 8-digit or more.
+
+Environment: Windows 10 (64 bit)
+Browser: Google Chrome Version 103.0.5060.134 (Official Build), (64 bit)
+TIME: 07/26/2022 (18:20 at Moscow time)
+
+PLAYBACK STEPS:
+1. Open https://surnin-nikitin.ru/
+2. Add any product to the "CART"
+3. Go to the shopping cart
+4. In the quantity column, add a value of 2 or more
+
+EXPECTED RESULT: The editor does not allow you to add more than 1 item of goods to 1 basket position.
+THE ACTUAL RESULT: The editor allows you to add more than 10 units of goods to one basket position.
+Screenshot is attached.
+
+
+(RUSSIAN VERSION) 
+
+ОПИСАНИЕ: В Корзине есть возможность увеличения количества пар обуви, на 8-значное и более число.
+
+Окружение: Windows 10 (64 бит)
+Браузер: Google Chrome Версия 103.0.5060.134 (Официальная сборка), (64 бит)
+ВРЕМЯ: 26.07.2022 (18:20 по Московскому времени)
+
+ШАГИ ВОСПРОИЗВЕДЕНИЯ:
+1. Открыть https://surnin-nikitin.ru/
+2. Добавить любой товар в "КОРЗИНУ"
+3. Перейти в корзину
+4. В графе количество добавлем значение 2 и более
+
+ОЖИДАЕМЫЙ РЕЗУЛЬТАТ: Редактор не позволяет добавить в 1 позицию корзины, более 1 единицы товара.
+ФАКТИЧЕСКИЙ РЕЗУЛЬТАТ: Редактор позволяет добавлять более 10 единиц товара в одну позицию корзины.
+Скриншот прилагается.
